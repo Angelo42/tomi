@@ -77,20 +77,20 @@
 	.site-generator,
 	.content,
 	.sidebar  {
-		width: 440px;
+		width: 490px;
 	}
 	
 	.audio-wrapper {
-		width: 400px;
+		width: 450px;
 	}
 	.audio {
-		width: 240px;
+		width: 2900px;
 	}
 	.single .audio-wrapper {
-		width: 400px;
+		width: 450px;
 	}
 	.single .audio {
-		width: 240px;
+		width: 290px;
 	}
 	#footer .widget-area {
 		float: none !important;
