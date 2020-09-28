@@ -301,7 +301,7 @@ hr {
 }
 .logo {
     float: left;
-    padding-top: 22px;
+    padding-top: 18px;
 }
 .intro {
     font-size: 22px;
@@ -1068,7 +1068,7 @@ blockquote cite:before {
 .vinyl dl dd.song {
     margin-top: 45px
 }
-.vinyl dl dd.artist,
+.vinyl dl dd.artist
 .vinyl dl dd.album {
 
 }
