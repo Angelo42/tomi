@@ -1531,3 +1531,20 @@ ul.flickr-feed li img {
     margin: 0;
     padding: 15px 0 0 0;
 }
+
+
+#logo1 {
+  animation: rotate 3s ease-in-out infinite;
+  
+}
+
+
+@keyframes rotate {
+  from{
+    transform: rotateZ(0deg);
+    
+  }
+  to{
+    transform: rotateZ(360deg);
+  }
+}
