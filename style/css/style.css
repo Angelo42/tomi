@@ -115,11 +115,8 @@ body {
     font-size: 12px;
     line-height: 21px;
     letter-spacing: 0.2px;
-    color: #b9b9b9;
-    background-image: url('style/images/bg/10.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+    color: #b9b9b9;}
+    
 .scanlines {
     position: fixed;
     top: 0px;
